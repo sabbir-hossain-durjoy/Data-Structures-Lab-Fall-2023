@@ -25,16 +25,6 @@ A **C-based ticket management system** that allows students to request, update, 
 3️⃣ Requests are processed → matched with seats and moved to **history**  
 4️⃣ History can be displayed → shows all confirmed bookings  
 
-## 🖥️ Installation & Run  
-1. 🔽 Clone this repository:  
-   git clone https://github.com/yourusername/conference-management-system.git  
-2. 📂 Navigate to the project folder:  
-   cd conference-management-system  
-3. ⚒️ Compile the project:  
-   gcc conference_management_system.c -o cms  
-4. ▶️ Run the project:  
-   ./cms  
-
 ## 📌 Usage (Menu Options)  
 1️⃣ Request for a ticket  
 2️⃣ Update or cancel ticket  
